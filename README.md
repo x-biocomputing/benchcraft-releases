@@ -10,6 +10,6 @@ A laboratory programming workspace by CogWorks, with AI assistance and PyLabRobo
 
 Subscriptions, one-time top-ups and account access are available at [benchcraft.cogworksai.com](https://benchcraft.cogworksai.com). You can also use your own supported model provider.
 
-The preview is unsigned; macOS may ask you to allow it in Privacy & Security. Instrument compatibility depends on the PyLabRobot driver and your lab setup.
+The preview is not notarized. If macOS blocks opening, use System Settings → Privacy & Security → Open Anyway. Instrument compatibility depends on the PyLabRobot driver and your lab setup.
 
 Windows and Linux downloads are in progress. Checksums and build details accompany each release.
